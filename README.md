@@ -1,6 +1,6 @@
 # attend-dash
 
-An dashboard for attendance data visualization for students of St. Stephen's College. 
+A dashboard for attendance data visualisation for students of St. Stepehen's College.
 
 
 We recommend [pipenv][ref1] for package management. 
