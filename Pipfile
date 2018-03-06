@@ -14,6 +14,7 @@ pandas = "*"
 "html5lib" = "*"
 lxml = "*"
 matplotlib = "*"
+requests-html = "*"
 
 
 [dev-packages]
