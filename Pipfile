@@ -9,6 +9,11 @@ name = "pypi"
 
 requests = "*"
 "beautifulsoup4" = "*"
+numpy = "*"
+pandas = "*"
+"html5lib" = "*"
+lxml = "*"
+matplotlib = "*"
 
 
 [dev-packages]
