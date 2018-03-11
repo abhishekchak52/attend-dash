@@ -17,6 +17,11 @@ matplotlib = "*"
 requests-html = "*"
 openpyxl = "*"
 tqdm = "*"
+dash = "*"
+dash-renderer = "*"
+dash-html-components = "*"
+dash-core-components = "*"
+plotly = "*"
 
 
 [dev-packages]
