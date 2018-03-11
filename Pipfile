@@ -15,8 +15,11 @@ pandas = "*"
 lxml = "*"
 matplotlib = "*"
 requests-html = "*"
+openpyxl = "*"
+tqdm = "*"
 
 
 [dev-packages]
 
 ipykernel = "*"
+jupyter = "*"
